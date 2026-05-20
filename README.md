@@ -2,7 +2,7 @@
 
 ### Software Engineer | Aspiring Cloud & Network Infrastructure Engineer
 
-I am a soon-to-be Software Engineering Bachelor's Graduate with a deep passion for the invisible layers of tech: **Cloud Architecture, Infrastructure Security, Networking, and Embedded Hardware**. I love bridging the gap between intelligent software systems and raw, physical hardware. 
+I am a soon-to-be Software Engineering Bachelor's Graduate with keen interest in the invisible layers of tech: **Cloud Architecture, Infrastructure Security, Networking, and Embedded Hardware**. I love connecting the gap between intelligent software systems and raw, physical hardware. 
 
 Currently building out hands-on enterprise-grade topologies, deploying custom Linux homelabs, and automating systems from the ground up.
 
@@ -20,13 +20,14 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 * **Hardware Labs:** Physical Server Architecture, Custom Homelab Deployment & Hardware Engineering
 
 ### 🤖 Artificial Intelligence & Machine Learning
-* **AI Agents:** Custom agentic workflows, prompt engineering, and LLM orchestration (e.g., *Kratos*)
-* **Data Pipelines:** Retrieval-Augmented Generation (RAG) system architectures for localized data processing
+* **AI Agents:** Open-source LM Models tweaking, prompt engineering, and LLM orchestration (e.g., *Kratos*)
+* **Data Pipelines:** Retrieval-Augmented Generation (RAG) system architectures for localized or deployed data processing
 
 ### 💻 Programming & Automation
 * **Core & Scripting:** Python, Bash Scripting
-* **Embedded & Systems:** Arduino C++, Java, Kotlin
+* **Embedded & Systems:** Arduino C++
 * **Web Tech:** JavaScript
+* **App Tech:** Java, Kotlin
 
 ---
 
@@ -39,15 +40,12 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 
 ## 🏆 Featured Projects & Deep-Dives
 
-### 🤖 [Kratos](https://github.com/TahrimWalid/kratos) *(Change link to your exact repo if needed)*
+### 🤖 [Kratos](https://github.com/TahrimWalid/kratos.git)
 An advanced AI project focusing on intelligent automation, agentic workflows, and specialized LLM task execution. This project showcases my ability to integrate modern AI capabilities into logical software layers.
-
-### 🗄️ [Group RAG Pipeline System](https://github.com/TahrimWalid/YOUR-RAG-REPO-NAME) *(Replace with your exact repo link)*
-A collaborative group project designing a Retrieval-Augmented Generation (RAG) pipeline. Engineered to ingest, parse, and embed documents into a vector space to allow highly accurate, contextual LLM queries over private data structures.
 
 ---
 
 ## 📬 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/) *(Update with your link)*
+* **LinkedIn:** [linkedin.com/in/your-profile]
 * **Portfolio & Labs:** Hosted via GitHub Pages *(Coming Soon!)*
