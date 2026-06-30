@@ -106,4 +106,4 @@ Linux (Ubuntu, Debian, Server Administration) · Docker, Containerized Microserv
 
 ---
 
-*Tampere, Finland — open to backend, cloud, and data engineering roles.*
+*Tampere, Finland — would love to work with cloud architecture, DevOps and low level LLM deployment at scale.*
