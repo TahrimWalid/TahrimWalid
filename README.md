@@ -1,9 +1,8 @@
 # Walid Hassan Tahrim
 
-**Full-Stack Software Engineer | Backend · Cloud · Edge AI · Local LLM Infrastructure**<br>
-**Aspiring Cloud & Network Infrastructure Engineer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=3B82F6&width=700&lines=Full-Stack+Software+Engineer;Backend+%C2%B7+Cloud+%C2%B7+Edge+AI+%C2%B7+Local+LLM+Infrastructure;Aspiring+Cloud+%26+Network+Infrastructure+Engineer;Building+systems+that+run+in+the+real+world)](https://git.io/typing-svg)
 
-I am a Software Engineering graduate (TAMK, May 2026) with a keen interest in the invisible layers of tech: cloud architecture, infrastructure security, networking, and embedded hardware. I like connecting the gap between intelligent software systems and raw, physical hardware — building backend systems, cloud infrastructure, and local AI pipelines that work in the real world, not just in demos.
+Software Engineering graduate (TAMK, May 2026) with a keen interest in the invisible layers of tech: cloud architecture, infrastructure security, networking, and embedded hardware. I like connecting the gap between intelligent software systems and raw, physical hardware — building backend systems, cloud infrastructure, and local AI pipelines that work in the real world, not just in demos.
 
 Currently building out hands-on enterprise-grade topologies, deploying custom Linux homelabs, and automating systems from the ground up. Pursuing AZ-104 (Azure Administrator Associate).
 
@@ -11,21 +10,21 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 
 ---
 
-## I am working with...
+## Stack
 
 **Languages & Scripting**
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,kotlin,bash,arduino)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,java,kotlin,bash,arduino)](https://skillicons.dev)
 
 **Frontend & Infrastructure-as-Code**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vercel,terraform)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vercel,terraform)](https://skillicons.dev)
 
 **Systems, Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,aws,azure,cloudflare)](https://skillicons.dev)
+[![Systems](https://skillicons.dev/icons?i=linux,docker,git,aws,azure,cloudflare)](https://skillicons.dev)
 
-**AI & Edge (custom badges — not on skillicons)**
+**AI & Edge**
 
 ![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat-square&logo=meta&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-6C3EFF?style=flat-square&logoColor=white)
@@ -36,23 +35,18 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 
 ---
 
-## The Tech Matrix
+## Activity
 
-**Networking & Cloud Security**
-Cisco IOS, Subnetting, Routing Protocols (OSPF, BGP) *(active track)* · Secure Remote Access, VPN Tunneling, Network Hardening
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TahrimWalid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahrimWalid&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 
-**Systems & Infrastructure**
-Linux (Ubuntu, Debian, Server Administration) · Docker, Containerized Microservices · Physical Server Architecture, Custom Homelab Deployment & Hardware Engineering
-
-**Artificial Intelligence & Machine Learning**
-Open-source LLM tweaking, prompt engineering, and LLM orchestration (e.g. Kratos) · Retrieval-Augmented Generation (RAG) architectures for localized or deployed data processing · 4-bit quantization, ARM & GPU deployment
-
-**Programming & Automation**
-Python, Bash Scripting · Arduino C++ · JavaScript, TypeScript · Java, Kotlin
+[![GitHub Streak](https://streak-stats.demolab.com?user=TahrimWalid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-## Featured Projects
+## Projects
 
 ### [Kratos](https://github.com/TahrimWalid/kratos) — Offline AI Security Analysis System
 *Bachelor's Thesis*
@@ -104,12 +98,22 @@ Built the backend benchmarking layer: 40+ REST API endpoints across 9 functional
 
 ---
 
-## Current Focus & Journey
+## Networking & Infrastructure
 
-- **Deep-diving into networking:** building advanced virtual network topologies using GNS3/EVE-NG to master routing, switching, and core protocols for the CCNA track
-- **Homelab hacking:** re-engineering low-power, small-form-factor server nodes to house multi-drive high-density storage arrays via PCIe expansion lanes
-- **DevOps & cloud:** automating local deployments with Bash and Docker to replicate cloud-native environments locally
-- **Cloud certification:** pursuing AZ-104, redeploying Career AI's pipeline onto Azure infrastructure as hands-on practice
+**Networking & Cloud Security**
+Cisco IOS, Subnetting, Routing Protocols (OSPF, BGP) *(active track)* · Secure Remote Access, VPN Tunneling, Network Hardening
+
+**Systems & Infrastructure**
+Linux (Ubuntu, Debian, Server Administration) · Docker, Containerized Microservices · Physical Server Architecture, Custom Homelab Deployment & Hardware Engineering
+
+---
+
+## Current
+
+- **Networking:** building advanced virtual topologies in GNS3/EVE-NG — routing, switching, core protocols, CCNA track
+- **Homelab:** re-engineering low-power SFF server nodes for multi-drive high-density storage via PCIe expansion
+- **DevOps:** automating local deployments with Bash and Docker to replicate cloud-native environments locally
+- **Certification:** pursuing AZ-104, redeploying Career AI onto Azure infrastructure as hands-on lab practice
 
 ---
 
