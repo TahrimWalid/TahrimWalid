@@ -6,7 +6,7 @@ Software Engineering graduate (TAMK, May 2026) with a keen interest in the invis
 
 Currently building out hands-on enterprise-grade topologies, deploying custom Linux homelabs, and automating systems from the ground up. Pursuing AZ-104 (Azure Administrator Associate).
 
-**Portfolio:** [your-portfolio-domain.com] *(live)*&nbsp;&nbsp;·&nbsp;&nbsp;**Email:** tahrimwalid@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;**LinkedIn:** [walid-hassan-tahrim](https://www.linkedin.com/in/walid-hassan-tahrim)&nbsp;&nbsp;·&nbsp;&nbsp;Tampere, Finland
+**Portfolio:** https://tahrimwalid.github.io/ *(live)*&nbsp;&nbsp;·&nbsp;&nbsp;**Email:** tahrimwalid@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;**LinkedIn:** [walid-hassan-tahrim](https://www.linkedin.com/in/walid-hassan-tahrim)&nbsp;&nbsp;·&nbsp;&nbsp;Tampere, Finland
 
 ---
 
