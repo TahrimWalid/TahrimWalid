@@ -35,17 +35,6 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 
 ---
 
-## Activity
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TahrimWalid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahrimWalid&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TahrimWalid&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
 ## Projects
 
 ### [Kratos](https://github.com/TahrimWalid/kratos) — Offline AI Security Analysis System
