@@ -1,7 +1,7 @@
 # Walid Hassan Tahrim
 
 **Full-Stack Software Engineer | Backend · Cloud · Edge AI · Local LLM Infrastructure**<br>
-Aspiring Cloud & Network Infrastructure Engineer
+**Aspiring Cloud & Network Infrastructure Engineer**
 
 I am a Software Engineering graduate (TAMK, May 2026) with a keen interest in the invisible layers of tech: cloud architecture, infrastructure security, networking, and embedded hardware. I like connecting the gap between intelligent software systems and raw, physical hardware — building backend systems, cloud infrastructure, and local AI pipelines that work in the real world, not just in demos.
 
