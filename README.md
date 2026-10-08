@@ -37,15 +37,17 @@ Currently building out hands-on enterprise-grade topologies, deploying custom Li
 
 ## Projects
 
-### [Kratos](https://github.com/TahrimWalid/kratos) — Offline AI Security Analysis System
-*Bachelor's Thesis*
+### [Kratos](https://github.com/TahrimWalid/kratos) — Self-hostable, self-growing AI Security Analysis System with a TUI
+*Evolved from Bachelor's Thesis*
 
-A fully offline, five-stage security pipeline (scan → log parsing → system context → correlation → LLM analysis) running Qwen2.5-Coder 7B via Llama.cpp on ARM hardware. Zero external API calls. 10 correlation rules including sliding-window SSH burst detection and baseline drift detection. Daemon mode cuts repeated query latency from ~2 minutes to 10–20 seconds. Structured output (Observation → Evidence → Risk → Action) forces evidence-backed findings over generic advice.
+A terminal security assistant that investigates Linux machines in plain language. Ask a question and an agentic loop picks from 19 read-only tools (auth logs, open ports, processes, file integrity, YARA, CVE matching, privileged accounts), reached over SSH or a dial-out sub-agent for boxes behind NAT. A rule engine with no model in it (21 correlation rules, including sliding-window SSH burst detection) turns observations into findings, and 11 answer checks reject conclusions the evidence doesn't back: a claim about the wrong time window, a dismissed HIGH finding, a count that doesn't match. Works with any OpenAI-compatible model, hosted or local. `/evolve` writes a missing tool, tests it in a network-less sandbox, and keeps it only on your approval. Also: deterministic audits, schedules, phone alerts, and an MCP server. ~2,400 tests.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat-square&logo=meta&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual_TUI-5A4FCF?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
